@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <group android:id="@+id/menugroup1">
+        <item android:id="@+id/action_vpn" android:title="@string/vpn"/>
+        <item android:id="@+id/action_yandex" android:title="@string/Yandex"/>
+        <item android:id="@+id/action_add_bookmark" android:title="@string/AddBookmark"/>
+        <item android:id="@+id/action_open_bookmarks" android:title="@string/Bookmarks"/>
+        <item android:id="@+id/action_open_history" android:title="@string/History"/>
+        <item android:id="@+id/action_web_parsing" android:title="@string/parsing"/>
+        <item android:id="@+id/action_translator" android:title="@string/translator" />
+        <item android:id="@+id/action_pdf" android:title="@string/pdf" />
+        <item android:id="@+id/action_chatgpt" android:title="@string/ChatGpt" />
+    </group>
+</menu>

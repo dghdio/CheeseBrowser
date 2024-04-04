@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#88D189"
+    tools:context=".view.PdfViewer">
+
+    <Button
+        android:id="@+id/open_pdf"
+        android:layout_width="157dp"
+        android:layout_height="77dp"
+        android:layout_marginStart="112dp"
+
+        android:layout_marginTop="96dp"
+        android:background="@drawable/pdff"
+        android:fontFamily="@font/righteous"
+        android:textColor="#6CDFED"
+        android:textSize="30sp"
+        android:textStyle="bold"
+        android:translationX="0dp"
+        android:translationY="400dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+</LinearLayout>

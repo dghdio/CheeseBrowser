@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "858186740350",
+    "project_id": "browser-cd94e",
+    "storage_bucket": "browser-cd94e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:858186740350:android:cc367c3bfc00797ed59e2f",
+        "android_client_info": {
+          "package_name": "com.lazycoder.cakevpn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "858186740350-4nk1cj8qkk1udpig19q8leuki98uqf51.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhv53Has-LUnbBVHRASnYilyJisDdDNRg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "858186740350-4nk1cj8qkk1udpig19q8leuki98uqf51.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
